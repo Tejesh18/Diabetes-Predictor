@@ -1,4 +1,5 @@
-# Diabetes Prediction - Deployment
+# Microsoft Future ready talent-Project
+# Diabetes Predictor
 <div align="center">
   <img width="453" alt="Diabetes Predictor" src="https://user-images.githubusercontent.com/86508855/182686071-be694a46-2331-4998-8726-ab2e616a43f7.png">
 </div>
