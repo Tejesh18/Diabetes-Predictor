@@ -20,7 +20,7 @@ Health
 
 
 ### Project Title :
-Daibetes Predictor
+Diabetes Predictor
 
 
 ### Problem Statement/Opportunity :
