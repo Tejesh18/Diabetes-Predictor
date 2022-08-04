@@ -2,7 +2,7 @@
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/ROHAN0011/Microsoft-Future-Ready-Talent-Internship-Project/blob/5ae1e52f4f4236d8ca92ea9189794835ce087467/FRT.jpeg" width="700" height= "350"></p></a>  
 
 # Diabetes Predictor
-<div align="center">
+<a href="https://diabetespredictor1.azurewebsites.net/"><div align="center">
   <img width="453" alt="Diabetes Predictor" src="https://user-images.githubusercontent.com/86508855/182686071-be694a46-2331-4998-8726-ab2e616a43f7.png">
 </div>
 
